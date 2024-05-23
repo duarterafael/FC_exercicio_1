@@ -5,5 +5,8 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
+        Filme filme = new Filme(1, "Casa blanca", 1970, "Rafael", 120);
+        Console.WriteLine(filme.Titulo);
+        filme.ExibirDetalhes();
     }
 }

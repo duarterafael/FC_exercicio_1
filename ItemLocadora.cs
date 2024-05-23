@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace FC_exercicio_1
 {
-    public class ItemLocadora
+    public abstract class ItemLocadora
     {
         public int Codigo { get; set; }
         public string Titulo { get; set; }
@@ -17,5 +17,8 @@ namespace FC_exercicio_1
             Titulo = titulo;
             Ano = ano;
         }
+
+       // public void ExibirDetalhes(){}
+       public abstract void ExibirDetalhes();
     }
 }

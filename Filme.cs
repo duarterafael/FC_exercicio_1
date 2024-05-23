@@ -15,5 +15,10 @@ namespace FC_exercicio_1
             Diretor = diretor;
             Duracao = duracao;
         }
+
+        public override void ExibirDetalhes()
+        {
+             Console.WriteLine($"Filme: {Titulo}, Diretor: {Diretor}, Duração: {Duracao} min, Ano: {Ano}");
+        }
     }
 }

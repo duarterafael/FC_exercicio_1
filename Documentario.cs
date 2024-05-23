@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace FC_exercicio_1
 {
-    public class Documentario : ItemLocadora 
+    public class Documentario : ItemLocadora
     {
         public string Assunto { get; set; }
 
@@ -13,6 +13,10 @@ namespace FC_exercicio_1
         {
             Assunto = assunto;
         }
-        
+
+        public override void ExibirDetalhes()
+        {
+            Console.WriteLine($"Documentário: {Titulo}, Assunto: {Assunto}, Ano: {Ano}");
+        }
     }
 }

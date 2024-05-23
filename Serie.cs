@@ -15,5 +15,10 @@ namespace FC_exercicio_1
             Temporadas = temporada;
             Episodios = episodios;
         }
+
+        public override void ExibirDetalhes()
+        {
+            Console.WriteLine($"Série: {Titulo}, Temporadas: {Temporadas}, Episódios: {Episodios}, Ano: {Ano}");
+        }
     }
 }

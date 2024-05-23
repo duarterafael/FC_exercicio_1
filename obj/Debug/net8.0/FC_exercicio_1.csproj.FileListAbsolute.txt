@@ -1,0 +1,15 @@
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\bin\Debug\net8.0\FC_exercicio_1.exe
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\bin\Debug\net8.0\FC_exercicio_1.deps.json
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\bin\Debug\net8.0\FC_exercicio_1.runtimeconfig.json
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\bin\Debug\net8.0\FC_exercicio_1.dll
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\bin\Debug\net8.0\FC_exercicio_1.pdb
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.AssemblyInfoInputs.cache
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.AssemblyInfo.cs
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.csproj.CoreCompileInputs.cache
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.sourcelink.json
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.dll
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\refint\FC_exercicio_1.dll
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.pdb
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\FC_exercicio_1.genruntimeconfig.cache
+D:\projetos\FC DOTNET\Lista de exercico Alunos\FC_exercicio_1\obj\Debug\net8.0\ref\FC_exercicio_1.dll
